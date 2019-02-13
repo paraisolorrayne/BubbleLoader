@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BubbleLoader_Example' do
+  pod 'BubbleLoader', :path => '../'
+
+  target 'BubbleLoader_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end

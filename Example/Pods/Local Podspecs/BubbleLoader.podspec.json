@@ -1,0 +1,22 @@
+{
+  "name": "BubbleLoader",
+  "version": "0.1.0",
+  "summary": "A short description of BubbleLoader.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/paraisolorrayne/BubbleLoader",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "paraisolorrayne": "tqi_lflor@uolinc.com"
+  },
+  "source": {
+    "git": "https://github.com/paraisolorrayne/BubbleLoader.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BubbleLoader/Classes/**/*"
+}

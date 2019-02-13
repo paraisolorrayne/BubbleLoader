@@ -1,0 +1,6 @@
+framework module BubbleLoader {
+  umbrella header "BubbleLoader-umbrella.h"
+
+  export *
+  module * { export * }
+}

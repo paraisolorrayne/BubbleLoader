@@ -1,0 +1,27 @@
+PODS:
+  - BubbleLoader (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - BubbleLoader (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  BubbleLoader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BubbleLoader: 14a3e6b22bdc015d875dc2d49fab8a4a559cfccd
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 7da16db41a81b78dcfdd7d13a7a4b1b999866d95
+
+COCOAPODS: 1.6.0
