@@ -22,7 +22,7 @@ pod 'BubbleLoader'
 
 ## Author
 
-paraisolorrayne, tqi_lflor@uolinc.com
+Lorrayne Paraiso, lorrayneparaisoc@gmail.com
 
 ## License
 
